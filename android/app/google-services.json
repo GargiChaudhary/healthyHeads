@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596141824549",
+    "project_id": "healthyheads-329a1",
+    "storage_bucket": "healthyheads-329a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596141824549:android:57ea8d067b0d1a876cfdcc",
+        "android_client_info": {
+          "package_name": "com.example.healthy_heads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596141824549-75a3o190h37uk7khrts65u2a1gpmvb1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthy_heads",
+            "certificate_hash": "f0025fb55c6c3a14bf60135fb4a0133ed5a71681"
+          }
+        },
+        {
+          "client_id": "596141824549-c979lkdgnjh69prc2e37j4m0a7cnkv51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS8SznAKhP6H64tmEAeJ-YqdRWrYVkVA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596141824549-c979lkdgnjh69prc2e37j4m0a7cnkv51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
